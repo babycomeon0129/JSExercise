@@ -16,7 +16,5 @@ for (let i = 100; i <= 999; i++) {
 
 }
 
-//let i = 369;
-
 
 console.log(result);
